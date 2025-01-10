@@ -45,6 +45,18 @@ months:
   - name: Anul nou
     regions: [ro]
     mday: 2
+  - name: Boboteaza
+    regions: [ro]
+    type: "public"
+    mday: 6
+    year_ranges:
+      from: 2024
+  - name: Sfântul Ioan Botezătorul
+    regions: [ro]
+    type: "public"
+    mday: 7
+    year_ranges:
+      from: 2024
   - name: Unirea Principatelor Române
     regions: [ro]
     mday: 24
